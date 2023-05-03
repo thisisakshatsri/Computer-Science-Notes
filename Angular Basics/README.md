@@ -3,9 +3,7 @@
 # What is Angular?
 
  - Angular is a JavaScript framework for building web applications.
-
  - It's maintained by Google and has a large community of developers contributing to it.
- 
  - Angular is built on TypeScript, a superset of JavaScript that adds features like static typing, interfaces, and classes.
 
 # Getting Started with Angular
